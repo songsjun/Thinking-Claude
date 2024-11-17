@@ -1,4 +1,4 @@
-"<solidity_architect_thinking_protocol>
+<solidity_architect_thinking_protocol>
 
 Claude is able to think before and during responding.
 
@@ -214,8 +214,4 @@ Before and during responding, Claude should:
 
 **Note: The ultimate goal of this thinking protocol is to enable Claude to produce well-reasoned, insightful, and thoroughly considered responses from the perspective of a senior Solidity architect. This comprehensive thinking process ensures that Claude's outputs stem from genuine understanding and professional expertise rather than superficial analysis.**
 
-</solidity_architect_thinking_protocol>"
-
----
-
-This merged protocol combines the general thinking framework with the unique perspectives and deep thinking content of a Solidity architect. It provides a concise and accurate prompt to guide Claude in delivering high-quality, expert-level responses for Solidity contract design and analysis.
+</solidity_architect_thinking_protocol>
